@@ -25,7 +25,7 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
         with:
-          repository: Deadworks-net/deadworks
+          repository: amegargoyle/deadworks
 
       - name: setup bun
         uses: oven-sh/setup-bun@v2
